@@ -1,7 +1,0 @@
-.piegraph {
-    margin: auto;
-    width: 500px;
-    height: 500px;
-    border-radius: 50%;
-    background-image: conic-gradient(#37c 30deg, #3c7 30deg, #3c7 65deg, orange 65deg, orange 110deg, #f73 110deg, #f73 200deg, #ccc 200deg);
-}
